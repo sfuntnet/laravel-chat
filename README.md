@@ -1,8 +1,4 @@
-Laravel Kurulumu için Dosyaları Bilgisiyarınıza indirin ve projenize veritabanı kurup projeye veritabınınız ismini belirtin ve sonra komutlara gelerek
 
-php artisan migrate:fresh
-
-yazarak sisteme girebilirsiniz
 
 ## Youtube Videosu
 
